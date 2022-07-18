@@ -3,7 +3,7 @@ kind: ClusterClaim
 metadata:
   name: team-a
   labels:
-    cluster-owner: vfarcic
+    cluster-owner: intenthq
 spec:
   id: team-a
   compositionSelector:

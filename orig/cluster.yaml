@@ -3,7 +3,7 @@ kind: CompositeCluster
 metadata:
   name: team-a
   labels:
-    cluster-owner: vfarcic
+    cluster-owner: intenthq
 spec:
   id: team-a
   compositionRef:

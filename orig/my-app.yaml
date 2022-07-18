@@ -15,7 +15,7 @@ spec:
     type: frontend
     properties:
       name: frontend
-      image: vfarcic/devops-toolkit-series
+      image: 071494471915.dkr.ecr.us-east-1.amazonaws.com/devops-toolkit-series:1.0.0
     traits:
     - type: autoscaler
       properties:
